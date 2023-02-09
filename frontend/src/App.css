@@ -1,0 +1,282 @@
+.homeContainer {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+}
+.howItWorks {
+  width: 274px;
+  height: 23px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #02b589;
+  text-decoration: none;
+}
+.footerContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 60px;
+}
+.boginooLogo {
+  height: 15vh;
+}
+.bodyContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height:80vh;
+}
+.signUpDiv {
+  width: 183px;
+  height: 44px;
+  background: #02b589;
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+}
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 40px;
+}
+.boginooButton {
+  width: 192px;
+  height: 44px;
+  background: #02b589;
+  border-radius: 100px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #ffffff;
+  border: none;
+}
+.boginooInput {
+  padding: 20px;
+  box-sizing: border-box;
+  width: 581px;
+  height: 44px;
+  margin-right: 10px;
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.16);
+  border-radius: 100px;
+}
+.pinecone{
+width: 225px;
+height: 18px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+color: #000000;
+}
+.year{
+width: 131px;
+height: 18px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+color: gray;
+opacity: 0.2;
+}
+.title{
+height: 38px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+text-align: center;
+color: #02B589;
+text-decoration: none
+}
+.input{
+box-sizing: border-box;
+width: 381px;
+height: 44px;
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.16);
+border-radius: 100px;
+padding: 20px;
+}
+.text{
+width: 200px;
+height: 18px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+color: #000000;
+margin-left: 20px;
+}
+.two{
+  margin-top: 20px;
+}
+.nigga{
+  display: flex;
+flex-direction: row;
+align-items: center;
+gap: 10px;
+width: 383px;
+height: 43px;
+background: #02B589;
+border-radius: 100px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+text-transform: uppercase;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.SwitchRegister{
+width: 257px;
+height: 18px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-decoration-line: underline;
+margin-top: 20px;
+color: #02B589;
+}
+.send{
+width: 240px;
+height: 50px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+text-align: center;
+
+color: #000000;
+
+}
+.sendTwo{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+flex-direction: row;
+align-items: center;
+width: 381px;
+height: 43px;
+background: #02B589;
+border-radius: 100px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+text-transform: uppercase;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.shortContainer{
+  display: flex;
+  flex-direction: column;
+  margin:20px
+}
+.links{
+width: 141px;
+height: 18px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+
+opacity: 0.5;
+}
+.data{
+  overflow: scroll;
+width: 304px;
+height: 23px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+color: #000000;
+}
+.column{
+  display: flex;
+  margin-top: 10px;
+}
+.history{
+  width: 274px;
+  height: 23px;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  text-transform: uppercase;
+  color: #02b589;
+  text-decoration: none;
+}
+.historyMain{
+  width: 100%;
+  height: 100%;
+}
+.fContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 10vh;
+  
+}
+.bContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height:60vh;
+}
+.display{
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
